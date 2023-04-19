@@ -6,7 +6,7 @@ This data is divided into 7 files including:
 
 1/ File of 70% triples used when training model
 
-2/ File of 70% triples after adding triple from rule
+2/ File of 70% triples after adding triple from rules
 
 3/ File of 30% triples used when training model
 
