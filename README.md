@@ -1,4 +1,4 @@
-# NCAA_Journal_Data
+# NCAA Journal Data
 Reference data for the NCAA journal article, 
 "VIETNAMESE SENTENCE FACT CHECKING BASED ON THE KNOWLEDGE GRAPH, DEEP LEARNING AND INFERENCE RULES"
 
