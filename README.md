@@ -17,3 +17,10 @@ This data is divided into 7 files including:
 6/ File contains the claim text used for fact-checking
 
 7/ File contains triples drawn from File 6/
+
+![image](https://user-images.githubusercontent.com/30404000/233619490-31ff61bf-15d0-4e12-b597-782316fe93cb.png)
+
+
+
+
+
