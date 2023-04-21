@@ -2,7 +2,17 @@
 Reference data for the NCAA journal article, 
 "VIETNAMESE SENTENCE FACT CHECKING BASED ON THE KNOWLEDGE GRAPH, DEEP LEARNING AND INFERENCE RULES"
 
-This data is divided into 7 files including:
+The data used in this paper includes the following files:
+1) File dataset includes 130,190 Vietnamese triples extracted from Wikipedia on the field of Culture-Tourism-Culinary in Vietnam
+
+
+
+
+
+
+
+
+The data is divided into 7 files including:
 
 1/ File of 70% triples used when training model
 
