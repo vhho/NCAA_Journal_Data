@@ -10,16 +10,10 @@ The data used in this paper includes the following files:
 
 **1) Original KG:** This is a repository of Vietnamese-based triples used as evidence to verify information.
 
-**2) Pre-trained BERT Model:** This is the BERT model before being trained with the Original KG. 
+**2) Logical Rules:** This contains the Logical Rules used by Algorithm 2 to infer new triples, Inferred Triples, in the Datalog language.
 
-**3) Original Fine-tuned BERT Model:** This block contains a refined BERT model, Original Fine-tuned BERT Model, with the original data set, Original KG. 
+**3) Complete KG:** This contains the complete data set, Complete KG, which includes the original dataset, Original KG, plus the newly inferred and conflict-tested triples, Validated Triples.
 
-**4) Logical Rules:** This contains the Logical Rules used by Algorithm 2 to infer new triples, Inferred Triples, in the Datalog language.
+**4) Claim Sentences:** This contains the sentences for fact-checking.
 
-**5) Complete KG:** This contains the complete data set, Complete KG, which includes the original dataset, Original KG, plus the newly inferred and conflict-tested triples, Validated Triples.
-
-**6) Complete Fine-tuned BERT Model:** This contains the BERT model, Complete Fine-tuned BERT Model, which has been fine-tuned with the complete dataset, Complete KG, from the Original Fine-tuned BERT Model. 
-
-**7) Claim Sentences:** This contains the sentences for fact-checking.
-
-**8) Claim Results:** This displays the results that have been fact-checked, Claim Results, with the value true, which is correct, or false, which is incorrect, with information in the complete data set, Complete KG.
+**5) Claim Results:** This displays the results that have been fact-checked, Claim Results, with the value true, which is correct, or false, which is incorrect, with information in the complete data set, Complete KG.
