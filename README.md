@@ -15,5 +15,3 @@ The data used in this paper includes the following files:
 **3) Complete KG:** This contains the complete data set, Complete KG, which includes the original dataset, Original KG, plus the newly inferred and conflict-tested triples, Validated Triples.
 
 **4) Claim Sentences:** This contains the sentences for fact-checking.
-
-**5) Claim Results:** This displays the results that have been fact-checked, Claim Results, with the value true, which is correct, or false, which is incorrect, with information in the complete data set, Complete KG.
