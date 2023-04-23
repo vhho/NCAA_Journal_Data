@@ -1,6 +1,6 @@
 # NCAA Journal Data
-Reference data for the NCAA journal article, 
-"VIETNAMESE SENTENCE FACT CHECKING BASED ON THE KNOWLEDGE GRAPH, DEEP LEARNING AND INFERENCE RULES"
+## Reference data for the NCAA journal article, 
+## "VIETNAMESE SENTENCE FACT CHECKING BASED ON THE KNOWLEDGE GRAPH, DEEP LEARNING AND INFERENCE RULES"
 
 Figure 5 below shows the proposed model for verifying the accuracy of Vietnamese sentences by combining Knowledge Graph with Logic Programming Language, utilizing the Triple Classification task based on the KG-BERT model. 
 
