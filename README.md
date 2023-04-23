@@ -4,7 +4,7 @@
 
 Figure 5 below shows the proposed model for verifying the accuracy of Vietnamese sentences by combining Knowledge Graph with Logic Programming Language, utilizing the Triple Classification task based on the KG-BERT model. 
 
-![image](https://user-images.githubusercontent.com/30404000/233814923-2c4e42f4-d5c3-4bae-a6da-73750ce6568e.png)
+![image](https://user-images.githubusercontent.com/30404000/233821559-6a260ef5-3a44-408e-ac29-56e40e5e4c39.png)
 
 The data used in this paper includes the following files:
 
