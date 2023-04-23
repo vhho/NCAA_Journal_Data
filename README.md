@@ -7,7 +7,8 @@ Figure 5 below shows the proposed model for verifying the accuracy of Vietnamese
 ![image](https://user-images.githubusercontent.com/30404000/233814923-2c4e42f4-d5c3-4bae-a6da-73750ce6568e.png)
 
 The data used in this paper includes the following files:
-###1) Original KG:### This is a repository of Vietnamese-based triples used as evidence to verify information.
+###1) Original KG: 
+This is a repository of Vietnamese-based triples used as evidence to verify information.
 2) Pre-trained BERT Model: This is the BERT model before being trained with the Original KG. 
 3) Original Fine-tuned BERT Model: This block contains a refined BERT model, Original Fine-tuned BERT Model, with the original data set, Original KG. 
 4) Logical Rules: This contains the Logical Rules used by Algorithm 2 to infer new triples, Inferred Triples, in the Datalog language.
